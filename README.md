@@ -1,4 +1,4 @@
-![MasterHead](https://s7.ezgif.com/tmp/ezgif-7-2cc04b1961.webp)
+![MasterHead](https://s3.ezgif.com/tmp/ezgif-3-c5776752cd.webp)
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate back-end developer from Iran</h3>
 
