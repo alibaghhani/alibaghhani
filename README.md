@@ -1,4 +1,4 @@
-![MasterHead](https://s3.ezgif.com/tmp/ezgif-3-c5776752cd.webp)
+![MasterHead](https://miro.medium.com/v2/resize:fit:960/1*xPRbGgLCyL4WDJ-O3ei1Dw.gif)
 # 💫 About Me:
 🌱 I’m currently learning Django, Fastapi<br><br>👨‍💻 All of my projects are available at https://github.com/alibaghhani<br><br>💬 Ask me about Python, Django<br><br>📫 How to reach me baghaniali2006@gmail.com<br><br>⚡ Fun fact everything in python is an object<br><br>
 
